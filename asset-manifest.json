@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://arul2112.github.io/csb-8ck4tm/static/js/main.9b98977b.chunk.js",
+    "main.js.map": "https://arul2112.github.io/csb-8ck4tm/static/js/main.9b98977b.chunk.js.map",
+    "runtime-main.js": "https://arul2112.github.io/csb-8ck4tm/static/js/runtime-main.7e054d2e.js",
+    "runtime-main.js.map": "https://arul2112.github.io/csb-8ck4tm/static/js/runtime-main.7e054d2e.js.map",
+    "static/js/2.450492b5.chunk.js": "https://arul2112.github.io/csb-8ck4tm/static/js/2.450492b5.chunk.js",
+    "static/js/2.450492b5.chunk.js.map": "https://arul2112.github.io/csb-8ck4tm/static/js/2.450492b5.chunk.js.map",
+    "index.html": "https://arul2112.github.io/csb-8ck4tm/index.html",
+    "precache-manifest.c5c1a152184c5d979a4d55702e02b62e.js": "https://arul2112.github.io/csb-8ck4tm/precache-manifest.c5c1a152184c5d979a4d55702e02b62e.js",
+    "service-worker.js": "https://arul2112.github.io/csb-8ck4tm/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e054d2e.js",
+    "static/js/2.450492b5.chunk.js",
+    "static/js/main.9b98977b.chunk.js"
+  ]
+}
